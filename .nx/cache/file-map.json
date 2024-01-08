@@ -1,0 +1,145 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@angular/animations": "^17.0.0",
+    "@angular/common": "^17.0.0",
+    "@angular/compiler": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@angular/forms": "^17.0.0",
+    "@angular/platform-browser": "^17.0.0",
+    "@angular/platform-browser-dynamic": "^17.0.0",
+    "@angular/platform-server": "^17.0.0",
+    "@angular/router": "^17.0.0",
+    "@angular/ssr": "^17.0.9",
+    "express": "^4.18.2",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.2",
+    "@angular-devkit/build-angular": "^17.0.9",
+    "@angular-eslint/builder": "17.2.0",
+    "@angular-eslint/eslint-plugin": "17.2.0",
+    "@angular-eslint/eslint-plugin-template": "17.2.0",
+    "@angular-eslint/schematics": "17.2.0",
+    "@angular-eslint/template-parser": "17.2.0",
+    "@angular/cli": "^17.0.8",
+    "@angular/compiler-cli": "^17.0.0",
+    "@types/express": "^4.17.17",
+    "@types/jasmine": "~5.1.0",
+    "@types/node": "^18.18.0",
+    "@typescript-eslint/eslint-plugin": "6.18.0",
+    "@typescript-eslint/parser": "6.18.0",
+    "eslint": "^8.56.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "ng-packagr": "^17.0.0",
+    "typescript": "~5.2.2"
+  },
+  "pathMappings": {
+    "call-center": [
+      "./dist/call-center"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "6686520031028425313"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "10990974197515897771"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "13044518069027839699"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "5331566439708925252"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17038929134016848735"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "5336636969995539451"
+      },
+      {
+        "file": "README.md",
+        "hash": "15594537074886111343"
+      },
+      {
+        "file": "angular.json",
+        "hash": "14469703227721530186"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "18407126198295659687"
+      },
+      {
+        "file": "package.json",
+        "hash": "11284211958860222256"
+      },
+      {
+        "file": "projects/call-center/.eslintrc.json",
+        "hash": "6816167862947225484"
+      },
+      {
+        "file": "projects/call-center/README.md",
+        "hash": "14180440155444502071"
+      },
+      {
+        "file": "projects/call-center/ng-package.json",
+        "hash": "7171007887601590675"
+      },
+      {
+        "file": "projects/call-center/package.json",
+        "hash": "7264999662334592427"
+      },
+      {
+        "file": "projects/call-center/src/lib/call-center.component.spec.ts",
+        "hash": "16360976216786451495"
+      },
+      {
+        "file": "projects/call-center/src/lib/call-center.component.ts",
+        "hash": "16740275562242609787"
+      },
+      {
+        "file": "projects/call-center/src/lib/call-center.service.spec.ts",
+        "hash": "16674963767577182609"
+      },
+      {
+        "file": "projects/call-center/src/lib/call-center.service.ts",
+        "hash": "9110434536688856189"
+      },
+      {
+        "file": "projects/call-center/src/public-api.ts",
+        "hash": "15084233437691030689"
+      },
+      {
+        "file": "projects/call-center/tsconfig.lib.json",
+        "hash": "3854248313799891276"
+      },
+      {
+        "file": "projects/call-center/tsconfig.lib.prod.json",
+        "hash": "6958467553555132988"
+      },
+      {
+        "file": "projects/call-center/tsconfig.spec.json",
+        "hash": "6187331034101419811"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "18070045622824965596"
+      }
+    ]
+  }
+}
