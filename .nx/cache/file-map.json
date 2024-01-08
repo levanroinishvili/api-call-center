@@ -30,6 +30,8 @@
     "@typescript-eslint/eslint-plugin": "6.18.0",
     "@typescript-eslint/parser": "6.18.0",
     "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.2",
     "jasmine-core": "~5.1.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
@@ -37,6 +39,8 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "ng-packagr": "^17.0.0",
+    "prettier": "^3.1.1",
+    "prettier-eslint": "^16.2.0",
     "typescript": "~5.2.2"
   },
   "pathMappings": {
@@ -54,11 +58,19 @@
       },
       {
         "file": ".eslintrc.json",
-        "hash": "10990974197515897771"
+        "hash": "14884141727019136448"
       },
       {
         "file": ".gitignore",
         "hash": "13044518069027839699"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "13044518069027839699"
+      },
+      {
+        "file": ".prettierrc.json",
+        "hash": "8737737480746136365"
       },
       {
         "file": ".vscode/extensions.json",
@@ -67,6 +79,10 @@
       {
         "file": ".vscode/launch.json",
         "hash": "17038929134016848735"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "17303694969660369248"
       },
       {
         "file": ".vscode/tasks.json",
@@ -78,15 +94,15 @@
       },
       {
         "file": "angular.json",
-        "hash": "14469703227721530186"
+        "hash": "9548610095627472983"
       },
       {
         "file": "package-lock.json",
-        "hash": "18407126198295659687"
+        "hash": "3562433370256861945"
       },
       {
         "file": "package.json",
-        "hash": "11284211958860222256"
+        "hash": "12973402510111379168"
       },
       {
         "file": "projects/call-center/.eslintrc.json",
@@ -135,6 +151,66 @@
       {
         "file": "projects/call-center/tsconfig.spec.json",
         "hash": "6187331034101419811"
+      },
+      {
+        "file": "projects/demo/.eslintrc.json",
+        "hash": "16669669839569459178"
+      },
+      {
+        "file": "projects/demo/server.ts",
+        "hash": "17556996765790181515"
+      },
+      {
+        "file": "projects/demo/src/app/app.component.html",
+        "hash": "7489069809214492100"
+      },
+      {
+        "file": "projects/demo/src/app/app.component.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "projects/demo/src/app/app.component.ts",
+        "hash": "8988066192026521087"
+      },
+      {
+        "file": "projects/demo/src/app/app.config.server.ts",
+        "hash": "15184490126418035619"
+      },
+      {
+        "file": "projects/demo/src/app/app.config.ts",
+        "hash": "662564880340698537"
+      },
+      {
+        "file": "projects/demo/src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "projects/demo/src/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "projects/demo/src/index.html",
+        "hash": "10972580145296962284"
+      },
+      {
+        "file": "projects/demo/src/main.server.ts",
+        "hash": "9257623809215978365"
+      },
+      {
+        "file": "projects/demo/src/main.ts",
+        "hash": "4169901790405087765"
+      },
+      {
+        "file": "projects/demo/src/styles.scss",
+        "hash": "2917954890128038984"
+      },
+      {
+        "file": "projects/demo/tsconfig.app.json",
+        "hash": "15211542768575683844"
+      },
+      {
+        "file": "projects/demo/tsconfig.spec.json",
+        "hash": "13338856497352866793"
       },
       {
         "file": "tsconfig.json",
