@@ -8,10 +8,9 @@ describe('CallCenterComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [CallCenterComponent]
-    })
-    .compileComponents();
-    
+      imports: [CallCenterComponent],
+    }).compileComponents();
+
     fixture = TestBed.createComponent(CallCenterComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();

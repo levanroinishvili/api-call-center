@@ -4,13 +4,7 @@ import { Component } from '@angular/core';
   selector: 'call-call-center',
   standalone: true,
   imports: [],
-  template: `
-    <p>
-      call-center works!
-    </p>
-  `,
-  styles: ``
+  template: ` <p>call-center works!</p> `,
+  styles: ``,
 })
-export class CallCenterComponent {
-
-}
+export class CallCenterComponent {}
