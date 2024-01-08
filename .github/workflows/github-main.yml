@@ -40,8 +40,8 @@ jobs:
 
     - name: Build library and demo app
       run: |
-        ng build call-center
-        ng build demo
+        npx ng build call-center
+        npx ng build demo
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
